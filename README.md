@@ -9,7 +9,7 @@ Create a fastapi app exposing an only one endpoint to create users with the foll
 - Age
 - Email
 - Height
-- 
+  
 **__Notes__**:
 - Make sure to use the right payload content type
 - Use the appropriate status codes
